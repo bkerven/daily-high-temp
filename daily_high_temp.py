@@ -14,8 +14,8 @@ from pathlib import Path
 # Config
 ZIP_CODE = "98375"
 # Lat/lon for 98375 (Puyallup/South Hill, WA)
-LAT = 47.1442
-LON = -122.2977
+LAT = 47.10670352169889
+LON = -122.32434017043883
 DATA_FILE = Path(__file__).parent / "daily_high_temps.json"
 NWS_UA = "daily-temp-logger/1.0 (homelab; bkerven@gmail.com)"
 
